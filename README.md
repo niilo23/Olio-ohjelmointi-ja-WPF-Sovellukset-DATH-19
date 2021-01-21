@@ -1,5 +1,7 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19
 
+Niilo Frimodig
+
 ## Ohjeet
 
 Kurssin ensimmäisellä päivällä luodaan omat GitHub Repositoriot, mikäli sinulla ei ole vielä GitHub tunnuksia, luo sellaiset.
