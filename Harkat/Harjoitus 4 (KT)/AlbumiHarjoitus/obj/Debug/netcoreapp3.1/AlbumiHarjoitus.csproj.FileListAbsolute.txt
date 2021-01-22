@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\bin\Debug\netcoreapp3.1\AlbumiHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 4 (KT)\AlbumiHarjoitus\obj\Debug\netcoreapp3.1\AlbumiHarjoitus.genruntimeconfig.cache

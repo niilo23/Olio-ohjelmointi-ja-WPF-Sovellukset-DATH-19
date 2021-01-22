@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlbumiHarjoitus/1.0.0": {
+        "runtime": {
+          "AlbumiHarjoitus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlbumiHarjoitus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
