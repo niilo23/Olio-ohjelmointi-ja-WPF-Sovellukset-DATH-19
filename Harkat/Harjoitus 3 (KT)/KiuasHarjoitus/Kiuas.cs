@@ -6,9 +6,9 @@ namespace KiuasHarjoitus
 {
     class Kiuas
     {
-        public bool päällä;
-        public float lämpö;
-        public float kosteus;
+        private bool päällä;
+        private float lämpö;
+        private float kosteus;
 
         public Kiuas (bool _OnOff, float _lämpö, float _kosteus)
         {

@@ -6,10 +6,10 @@ namespace AlbumiHarjoitus
 {
     class Albumi
     {
-        public string artisti { get; set; }
-        public string musiikinNimi { get; set; }
-        public string genre { get; set; }
-        public int hinta { get; set; }
+        private string artisti { get; set; }
+        private string musiikinNimi { get; set; }
+        private string genre { get; set; }
+        private int hinta { get; set; }
 
         public List<string> Kappale = new List<string>(10);
         

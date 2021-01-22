@@ -1,0 +1,12 @@
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\bin\Debug\netcoreapp3.1\LaskinHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 5\LaskinHarjoitus\obj\Debug\netcoreapp3.1\LaskinHarjoitus.genruntimeconfig.cache

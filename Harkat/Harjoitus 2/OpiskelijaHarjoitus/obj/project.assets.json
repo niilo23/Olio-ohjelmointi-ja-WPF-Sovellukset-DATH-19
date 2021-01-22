@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\z_Koulu\\Koodit\\C#\\Olio-Ohjelmointi\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\OpiskelijaHarjoitus.csproj",
+      "projectUniqueName": "D:\\z_Koulu\\Koodit\\C#\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\OpiskelijaHarjoitus.csproj",
       "projectName": "OpiskelijaHarjoitus",
-      "projectPath": "D:\\z_Koulu\\Koodit\\C#\\Olio-Ohjelmointi\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\OpiskelijaHarjoitus.csproj",
+      "projectPath": "D:\\z_Koulu\\Koodit\\C#\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\OpiskelijaHarjoitus.csproj",
       "packagesPath": "C:\\Users\\niilo\\.nuget\\packages\\",
-      "outputPath": "D:\\z_Koulu\\Koodit\\C#\\Olio-Ohjelmointi\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\obj\\",
+      "outputPath": "D:\\z_Koulu\\Koodit\\C#\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\Harjoitus 2\\OpiskelijaHarjoitus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\niilo\\AppData\\Roaming\\NuGet\\NuGet.Config",

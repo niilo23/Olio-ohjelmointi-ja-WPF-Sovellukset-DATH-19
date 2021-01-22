@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\bin\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 8 (KT)\TyöntekijäPomoHarjoitus\obj\Debug\netcoreapp3.1\TyöntekijäPomoHarjoitus.genruntimeconfig.cache
