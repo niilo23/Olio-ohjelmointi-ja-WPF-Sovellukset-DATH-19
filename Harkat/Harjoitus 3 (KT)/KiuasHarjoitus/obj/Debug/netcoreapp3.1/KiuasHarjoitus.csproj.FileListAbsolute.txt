@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\bin\Debug\netcoreapp3.1\KiuasHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 3 (KT)\KiuasHarjoitus\obj\Debug\netcoreapp3.1\KiuasHarjoitus.genruntimeconfig.cache
