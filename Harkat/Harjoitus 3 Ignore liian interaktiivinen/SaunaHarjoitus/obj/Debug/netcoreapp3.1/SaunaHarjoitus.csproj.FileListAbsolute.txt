@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\bin\Debug\netcoreapp3.1\SaunaHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 3 (KT)\SaunaHarjoitus\obj\Debug\netcoreapp3.1\SaunaHarjoitus.genruntimeconfig.cache

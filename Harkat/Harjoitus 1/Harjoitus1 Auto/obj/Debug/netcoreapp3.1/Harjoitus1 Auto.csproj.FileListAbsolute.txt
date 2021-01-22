@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.exe
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.deps.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\bin\Debug\netcoreapp3.1\Harjoitus1 Auto.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\AutoHarjoitus\Harjoitus1 Auto\obj\Debug\netcoreapp3.1\Harjoitus1 Auto.genruntimeconfig.cache

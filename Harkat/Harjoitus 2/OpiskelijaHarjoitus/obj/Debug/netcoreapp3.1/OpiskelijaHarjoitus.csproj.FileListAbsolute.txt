@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\bin\Debug\netcoreapp3.1\OpiskelijaHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\Harjoitus 2\OpiskelijaHarjoitus\obj\Debug\netcoreapp3.1\OpiskelijaHarjoitus.genruntimeconfig.cache

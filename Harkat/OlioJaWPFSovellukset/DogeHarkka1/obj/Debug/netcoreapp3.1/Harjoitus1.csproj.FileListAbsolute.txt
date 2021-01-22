@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.exe
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.deps.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\netcoreapp3.1\Harjoitus1.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.dll
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.pdb
+D:\z_Koulu\Koodit\C#\Olio-Ohjelmointi\Harkat\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\netcoreapp3.1\Harjoitus1.genruntimeconfig.cache

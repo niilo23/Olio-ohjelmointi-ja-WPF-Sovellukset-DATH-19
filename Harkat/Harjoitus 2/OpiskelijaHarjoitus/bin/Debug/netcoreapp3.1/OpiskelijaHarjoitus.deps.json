@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OpiskelijaHarjoitus/1.0.0": {
+        "runtime": {
+          "OpiskelijaHarjoitus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpiskelijaHarjoitus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
