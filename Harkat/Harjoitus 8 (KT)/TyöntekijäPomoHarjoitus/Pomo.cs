@@ -10,17 +10,19 @@ namespace TyöntekijäPomoHarjoitus
 
         public string PomoAuto { get; set; }
 
-        private static readonly int MaxInstanssit = 1;
-        private static int _Instanssit;
+        private static int instanssit;
         private static int Instanssit
         {
-            get { return _Instanssit; }
+            get => instanssit;
 
             set
             {
-                if (value > MaxInstanssit) Instanssit = MaxInstanssit;
-
-                _Instanssit = MaxInstanssit;
+                if (value > 1)
+                {
+                    value = 1;
+                }
+                    
+                instanssit = value;
             }
         }
 

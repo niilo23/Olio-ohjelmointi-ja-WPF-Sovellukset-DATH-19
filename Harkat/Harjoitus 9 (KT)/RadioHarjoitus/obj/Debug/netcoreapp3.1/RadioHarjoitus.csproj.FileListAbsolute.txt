@@ -1,0 +1,13 @@
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.exe
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.deps.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.runtimeconfig.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.runtimeconfig.dev.json
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\bin\Debug\netcoreapp3.1\RadioHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.csprojAssemblyReference.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.AssemblyInfoInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.AssemblyInfo.cs
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.csproj.CoreCompileInputs.cache
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.dll
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.pdb
+D:\z_Koulu\Koodit\C#\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\Harjoitus 9 (KT)\RadioHarjoitus\obj\Debug\netcoreapp3.1\RadioHarjoitus.genruntimeconfig.cache
